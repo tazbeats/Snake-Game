@@ -24,7 +24,7 @@ This is a classic terminal-based snake game where the player controls a snake us
 ---
 
 ## 📸 Screenshots
-
+![Snake Game Screenshot](IMG/SG.png)
 
 ---
 

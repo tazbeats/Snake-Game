@@ -1,4 +1,4 @@
-# 🐍 Classic Snake Game — C++ Console Edition
+## 🐍 Classic Snake Game — C++ Console Edition
 
 A simple yet fun **Snake Game** developed during my first semester of university as part of the **Computer Programming** course project. This version is written entirely in **C++** and runs in the Windows console.
 
